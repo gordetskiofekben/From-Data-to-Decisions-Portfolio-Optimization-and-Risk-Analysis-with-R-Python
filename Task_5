@@ -1,4 +1,4 @@
-#Example 5_Sohrab
+
 library(tidyquant) #library(tidyquant) loads a package that provides tidyverse-style tools for financial data analysis, such as working with prices, returns, and portfolio analytics.
 library(plotly) #library(plotly) loads a package that enables interactive data visualizations in R, allowing plots to be zoomed, hovered, and explored dynamically.
 library(timetk) #library(timetk) loads a package that provides tools for handling and transforming time series data in a tidy and xts-compatible format.
